@@ -1,0 +1,1 @@
+Questa sezione si occupa del servizio in background che controllerà periodicamente il sito web Decathlon e notificherà all'utente la disponibilità del prodotto selezionato.
